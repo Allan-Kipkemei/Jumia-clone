@@ -44,17 +44,9 @@ Jumia clone app will have the following features
 
 ## Author
 
-Reach out!
-
-👤 **Hillary Kiptoo**
-
-- LinkedIn: [Hillary Kiptoo](https://www.linkedin.com/in/hillarykiptoo)
-- Github: [@imhilla](https://github.com/imhilla)
-- Twitter: [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
+Allan Kiplagat
 
 
-## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
